@@ -162,7 +162,7 @@ text {
   background-color: white;
 }
 .port0 {
-  background-image: url("/img/about/port0.JPG");
+  background-image: url("/saitejagarlapati.github.io/img/about/port0.JPG");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -172,11 +172,11 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("/img/about/port0.JPG");
+    url("/saitejagarlapati.github.io/img/about/port0.JPG");
     
 }
 .port1 {
-  background-image: url("/img/about/port1.jpg");
+  background-image: url("/saitejagarlapati.github.io/img/about/port1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -186,10 +186,10 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("/img/about/port1.jpg");
+    url("/saitejagarlapati.github.io/img/about/port1.jpg");
 }
 .port2 {
-  background-image: url("/img/about/port2.jpg");
+  background-image: url("/saitejagarlapati.github.io/img/about/port2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -199,10 +199,10 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("/img/about/port2.jpg");
+    url("/saitejagarlapati.github.io/img/about/port2.jpg");
 }
 .port3 {
-  background-image: url("img/about/port3.png");
+  background-image: url("/saitejagarlapati.github.io/img/about/port3.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -212,7 +212,7 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("/img/about/port3.png");
+    url("/saitejagarlapati.github.io/img/about/port3.png");
 }
 
 .inheritHeight {
