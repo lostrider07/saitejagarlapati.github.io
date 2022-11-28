@@ -1,5 +1,4 @@
-var $jq = jQuery.noConflict();
-jQuery(document).ready(function () {
+jQuery(document).ready(function ($) {
   $(".your-class").slick({
     arrows: false,
     infinite: true,
