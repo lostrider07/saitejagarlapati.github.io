@@ -162,7 +162,7 @@ text {
   background-color: white;
 }
 .port0 {
-  background-image: url("/img/about/port0.png");
+  background-image: url("/img/about/port0.JPG");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -172,11 +172,11 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("/img/about/port0.png");
+    url("/img/about/port0.JPG");
     
 }
 .port1 {
-  background-image: url("/img/about/port1.png");
+  background-image: url("/img/about/port1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -186,10 +186,10 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("/img/about/port1.png");
+    url("/img/about/port1.jpg");
 }
 .port2 {
-  background-image: url("/img/about/port2.png");
+  background-image: url("/img/about/port2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -199,7 +199,7 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("/img/about/port2.png");
+    url("/img/about/port2.jpg");
 }
 .port3 {
   background-image: url("img/about/port3.png");
