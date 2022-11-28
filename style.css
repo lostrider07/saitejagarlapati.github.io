@@ -183,7 +183,6 @@ text {
       rgba(85, 85, 85, 0.8)
     ),
     url("/saitejagarlapati.github.io/img/about/port0.JPG");
-    
 }
 .port1 {
   background-image: url("/saitejagarlapati.github.io/img/about/port1.jpg");
@@ -1476,4 +1475,46 @@ select:focus {
   .content {
     height: 120px !important;
   }
+}
+
+@media screen and (max-width:414px) {
+  h1 {
+    margin-bottom: 40.7px;
+  }
+  #about_me_text {
+    margin-top: 200px !important;
+  }
+  .aboutDiv {
+    margin-top: 60px !important;
+  }
+  .halfDiv {
+    margin-top: auto;
+  }
+  .content {
+    margin-top: auto;
+    height: 120px !important;
+  }
+
+  .companyDiv span{
+    line-height: 2.5 !important;
+    font-size: 16px !important;
+  }
+  
+  .companyDiv p {
+    line-height: 0.5 !important;
+    font-size: 14px !important;
+    margin-top: -50px;
+    margin-left: auto;
+  }
+
+  .durationDiv {
+    height: 41.5% !important;
+    width: 110% !important;
+  }
+
+  .companyDiv {
+    height: 100% !important;
+    width: 110% !important;
+  }
+  
 }

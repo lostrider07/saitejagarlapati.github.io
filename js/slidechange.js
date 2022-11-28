@@ -1,5 +1,5 @@
 var changeSlide = 0;
-$(".portnxt").click(function () {
+jQuery(".portnxt").click(function () {
   $(".your-class").slick("slickNext");
   changeSlide = (changeSlide + 1) % 7;
   if (changeSlide == 0) {

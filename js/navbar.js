@@ -33,7 +33,7 @@ var toggle=0 ;
         });
 
         function enablescroll() {
-             $("#menuimage").attr("src", "/saitejagarlapati.github.io/img/menu.png");
+             $("#menu_options").attr("src", "/saitejagarlapati.github.io/img/menu.png");
              $("nav").removeClass("creamBackground") ;
              $("nav").addClass("blackBackground") ;
              $(".navbar-brand").css("opacity","1") ;
@@ -41,4 +41,3 @@ var toggle=0 ;
              $("body").css("overflow-y","auto");
              toggle=toggle+1;
         }
-        
