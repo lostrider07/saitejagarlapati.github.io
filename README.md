@@ -1,4 +1,9 @@
-The Deployed site is: https://saitejagarlapati.github.io.
+The Deployed site is: https://lostrider07.github.io/saitejagarlapati.github.io/
+
+How to run the project:
+- First, you will need to clone the repository from https://github.com/lostrider07
+- Then go to the specified path where you have the index.html in the terminal.
+- Type the command: start index.html and press enter.
 
 References used for this project are: 
 1. https://designshack.net/articles/navigation/single-page-sliding-website-layout-fixed-nav/
@@ -10,3 +15,4 @@ References used for this project are:
 7. https://www.youtube.com/watch?v=_hzIwvuSXpc
 8. https://www.flaticon.com/ (For different website icons)
 9. https://code.jquery.com/jquery-3.6.1.min.js
+
