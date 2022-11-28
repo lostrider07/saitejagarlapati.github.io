@@ -173,6 +173,7 @@ text {
       rgba(85, 85, 85, 0.8)
     ),
     url("/img/about/port0.png");
+    
 }
 .port1 {
   background-image: url("/img/about/port1.png");
@@ -1089,7 +1090,7 @@ select:focus {
 }
 .contactDIV {
   margin-top: 50px;
-  background-image: url("/img/contact.jpg");
+  background-image: url("/img/contact12.jpg");
   background-repeat: no-repeat;
   background-position: top 20px left 680px;
   margin-bottom: 105px;
