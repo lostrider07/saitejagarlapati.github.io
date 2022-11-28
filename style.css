@@ -20,7 +20,7 @@ i:hover {
 }
 .aboutDiv {
   color: white !important;
-  width: 1200px;
+  width: 120%;
 }
 #main-pic {
   border-radius: 50%;
@@ -61,7 +61,7 @@ text {
 }
 #inner {
   overflow: hidden;
-  width: 1500px;
+  width: 150%;
   flex-wrap: wrap;
   display: flex;
 }
