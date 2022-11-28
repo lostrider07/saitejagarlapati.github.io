@@ -162,7 +162,7 @@ text {
   background-color: white;
 }
 .port0 {
-  background-image: url("img/about/port0.png");
+  background-image: url("/img/about/port0.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -172,10 +172,10 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("img/about/port0.png");
+    url("/img/about/port0.png");
 }
 .port1 {
-  background-image: url("img/about/port1.png");
+  background-image: url("/img/about/port1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -185,10 +185,10 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("img/about/port1.png");
+    url("/img/about/port1.png");
 }
 .port2 {
-  background-image: url("img/about/port2.png");
+  background-image: url("/img/about/port2.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -198,7 +198,7 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("img/about/port2.png");
+    url("/img/about/port2.png");
 }
 .port3 {
   background-image: url("img/about/port3.png");
@@ -211,24 +211,16 @@ text {
       rgba(85, 85, 85, 0.8),
       rgba(85, 85, 85, 0.8)
     ),
-    url("img/about/port3.png");
+    url("/img/about/port3.png");
 }
 
 .inheritHeight {
   height: inherit;
 }
-@media screen and (max-width: 1920px) and (min-width: 1600px) {
-  #HomeDiv {
-    height: 820px !important;
-    background-image: url(img/about/mainHS.png);
-    background-repeat: no-repeat;
-    background-size: 1920px 975px !important;
-    background-position: center;
-  }
-}
+
 #HomeDiv {
   height: 754px;
-  background-image: url("img/about/mainHS.png");
+  background-image: url("/img/about/mainHS.png");
   background-repeat: no-repeat;
   background-size: 1665px 860px;
   background-position: center;
@@ -253,16 +245,7 @@ text {
   color: #034ea2;
   font: 18px avenirBook;
 }
-.introDiv span::after {
-  content: "MS CS candidate graduating in May 2021, 3 years of work experience at BNP Paribas \A ""along with 3 internships - Summer 2020, Fall 2020 and Spring 2021";
-  white-space: pre;
-}
-@media screen and (max-width: 614px) and (min-width: 575px) {
-  .introDiv span::after {
-    content: "MS CS candidate graduating in May 2021, 3 years of work experience at BNP Paribas \A ""along with 3 internships - Summer 2020, Fall 2020 and Spring 2021";
-    white-space: pre;
-  }
-}
+
 .introDiv button {
   margin-right: 25px;
   margin-top: 30px;
@@ -305,23 +288,23 @@ select:focus {
 }
 @font-face {
   font-family: avenirBlack;
-  src: url("avenir_ff/AvenirLTStd-Black.otf");
+  src: url("/fonts_avenir/AvenirLTStd-Black.otf");
 }
 @font-face {
   font-family: avenirBook;
-  src: url("avenir_ff/AvenirLTStd-Book.otf");
+  src: url("fonts_avenir/AvenirLTStd-Book.otf");
 }
 @font-face {
   font-family: avenirRoman;
-  src: url("avenir_ff/AvenirLTStd-Roman.otf");
+  src: url("/fonts_avenir/AvenirLTStd-Roman.otf");
 }
 @font-face {
   font-family: avenirMedium;
-  src: url("avenir_ff/Avenir-Medium.otf");
+  src: url("/fonts_avenir/Avenir-Medium.otf");
 }
 @font-face {
   font-family: avenirHeavy;
-  src: url("avenir_ff/Avenir Heavy.otf");
+  src: url("/fonts_avenir/Avenir\ Heavy.otf");
 }
 #HomeDiv li {
   padding-top: 30px;
@@ -773,12 +756,12 @@ select:focus {
   }
 }
 .slick-prev:before {
-  content: url("img/about/previous.png");
+  content: url("/img/previous.png");
   font-size: 30px;
 }
 
 .slick-next:before {
-  content: url("img/about/next.png");
+  content: url("/img/next.png");
   font-size: 30px;
 }
 
@@ -1106,7 +1089,7 @@ select:focus {
 }
 .contactDIV {
   margin-top: 50px;
-  background-image: url("img/about/Contact.png");
+  background-image: url("/img/contact.jpg");
   background-repeat: no-repeat;
   background-position: top 20px left 680px;
   margin-bottom: 105px;
