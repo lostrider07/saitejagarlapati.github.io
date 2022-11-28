@@ -21,6 +21,16 @@ i:hover {
 .aboutDiv {
   color: white !important;
 }
+#main-pic {
+  border-radius: 50%;
+  border-color: solid black;
+  float: left;
+  width: 350px;
+  height: 350px;
+  position: relative;
+  top: -40px;
+  left: -40px;
+}
 p {
   color: white;
 }
