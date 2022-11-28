@@ -816,7 +816,7 @@ select:focus {
   }
 }
 .aboutColumn h1 {
-  color: #566ccd;
+  color: #092ecf;
   font: 22px avenirBlack;
 }
 .aboutColumn p {
@@ -857,7 +857,7 @@ select:focus {
 }
 
 .experienceColumn h1 {
-  color: #566ccd;
+  color: #092ecf;
   font: 22px avenirBlack;
 }
 /* The actual timeline (the vertical ruler) */
