@@ -18,6 +18,9 @@ i:hover {
   border: none;
   outline: none;
 }
+div#HomeDiv {
+    margin: auto;
+  }
 .aboutDiv {
   color: white !important;
   width: 120%;
@@ -1319,6 +1322,9 @@ select:focus {
   .topspace {
     margin-top: 50px !important;
   }
+  div#HomeDiv {
+    margin: auto;
+  }
   .aboutColumn h2 {
     font: 100px avenirBlack !important;
   }
@@ -1402,6 +1408,9 @@ select:focus {
   .timeline {
     top: -33px;
   }
+  div#HomeDiv {
+    margin: auto;
+  }
 }
 
 @media screen and (max-width: 991px) {
@@ -1410,6 +1419,9 @@ select:focus {
   }
   #HomeDiv {
     background-position: -312px;
+  }
+  div#HomeDiv {
+    margin: auto;
   }
   #HomeDiv h1 {
     font-size: 30px;
@@ -1490,6 +1502,9 @@ select:focus {
   h1 {
     margin-bottom: 40.7px;
   }
+  div#HomeDiv {
+    margin: auto;
+  }
   #about_me_text {
     margin-top: 200px !important;
   }
@@ -1524,5 +1539,26 @@ select:focus {
   .companyDiv {
     height: 100% !important;
     width: 110% !important;
+  }
+}
+
+@media screen and (min-width: 414px) and (max-width: 577px) {
+  body {
+    margin-left: 70px;
+  }
+  h1 {
+    margin-bottom: 40.7px;
+  }
+  #about_me_text {
+    margin-top: 200px !important;
+  }
+  .aboutDiv {
+    margin-top: 60px !important;
+  }
+  .halfDiv {
+    margin-top: auto;
+  }
+  div#HomeDiv {
+    margin: auto;
   }
 }
