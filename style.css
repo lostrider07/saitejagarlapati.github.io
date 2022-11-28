@@ -221,7 +221,7 @@ text {
 
 #HomeDiv {
   height: 754px;
-  background-image: url("/img/about/mainHS.png");
+  background-image: url("/saitejagarlapati.github.io/img/about/mainHS.png");
   background-repeat: no-repeat;
   background-size: 1665px 860px;
   background-position: center;
@@ -289,23 +289,23 @@ select:focus {
 }
 @font-face {
   font-family: avenirBlack;
-  src: url("/fonts_avenir/AvenirLTStd-Black.otf");
+  src: url("/saitejagarlapati.github.io/fonts_avenir/AvenirLTStd-Black.otf");
 }
 @font-face {
   font-family: avenirBook;
-  src: url("fonts_avenir/AvenirLTStd-Book.otf");
+  src: url("/saitejagarlapati.github.iofonts_avenir/AvenirLTStd-Book.otf");
 }
 @font-face {
   font-family: avenirRoman;
-  src: url("/fonts_avenir/AvenirLTStd-Roman.otf");
+  src: url("/saitejagarlapati.github.io/fonts_avenir/AvenirLTStd-Roman.otf");
 }
 @font-face {
   font-family: avenirMedium;
-  src: url("/fonts_avenir/Avenir-Medium.otf");
+  src: url("/saitejagarlapati.github.io/fonts_avenir/Avenir-Medium.otf");
 }
 @font-face {
   font-family: avenirHeavy;
-  src: url("/fonts_avenir/Avenir\ Heavy.otf");
+  src: url("/saitejagarlapati.github.io/fonts_avenir/Avenir\ Heavy.otf");
 }
 #HomeDiv li {
   padding-top: 30px;
@@ -1090,7 +1090,7 @@ select:focus {
 }
 .contactDIV {
   margin-top: 50px;
-  background-image: url("/img/contact12.jpg");
+  background-image: url("/saitejagarlapati.github.io/img/contact12.jpg");
   background-repeat: no-repeat;
   background-position: top 20px left 680px;
   margin-bottom: 105px;
