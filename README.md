@@ -1,7 +1,9 @@
 The Deployed site is: https://lostrider07.github.io/saitejagarlapati.github.io/
 
+The Public git repository is: https://github.com/lostrider07/saitejagarlapati.github.io 
+
 How to run the project:
-- First, you will need to clone the repository from https://github.com/lostrider07
+- First, you will need to clone the repository : https://lostrider07.github.io/saitejagarlapati.github.io/
 - Then go to the specified path where you have the index.html in the terminal.
 - Type the command: start index.html and press enter.
 
@@ -16,3 +18,6 @@ References used for this project are:
 8. https://www.flaticon.com/ (For different website icons)
 9. https://code.jquery.com/jquery-3.6.1.min.js
 
+
+Issues yet to solve:
+- Slide change is not working for projects.
