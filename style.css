@@ -51,6 +51,7 @@ text {
   margin-right: auto;
   box-shadow: 0px 3px 25px #00000029;
   transition: margin 0.5s, border-radius 0.5s;
+  align-items: center;
 }
 
 .outer:hover {
@@ -60,11 +61,11 @@ text {
   opacity: 0;
   height: 100%;
   width: 100%;
-  float: left;
+
 }
 #inner {
   overflow: hidden;
-  width: 150%;
+  width: 100%;
   flex-wrap: wrap;
   display: flex;
 }
@@ -1111,7 +1112,7 @@ select:focus {
 }
 .contactDIV {
   margin-top: 50px;
-  background-image: url("/saitejagarlapati.github.io/img/contact12.jpg");
+  background-image: url("/saitejagarlapati.github.io/img/contact12.png");
   background-repeat: no-repeat;
   background-position: top 20px left 680px;
   margin-bottom: 105px;
