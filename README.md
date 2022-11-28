@@ -9,3 +9,4 @@ References used for this project are:
 6. https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
 7. https://www.youtube.com/watch?v=_hzIwvuSXpc
 8. https://www.flaticon.com/ (For different website icons)
+9. https://code.jquery.com/jquery-3.6.1.min.js
