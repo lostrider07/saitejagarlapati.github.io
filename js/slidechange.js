@@ -100,7 +100,7 @@ $(".portnxt").click(function () {
     $(".port2").addClass("outerFourth");
   }
   $(".portnxt").attr("disabled", "disabled");
-  setTimeout(function ($) {
+  setTimeout(function () {
     $(".portnxt").removeAttr("disabled");
   }, 500);
 });
