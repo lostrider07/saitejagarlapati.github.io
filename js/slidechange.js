@@ -1,5 +1,5 @@
 var changeSlide = 0;
-jQuery(".portnxt").click(function ($) {
+$(".portnxt").click(function () {
   $(".your-class").slick("slickNext");
   changeSlide = (changeSlide + 1) % 7;
   if (changeSlide == 0) {
@@ -100,11 +100,11 @@ jQuery(".portnxt").click(function ($) {
     $(".port2").addClass("outerFourth");
   }
   $(".portnxt").attr("disabled", "disabled");
-  setTimeout(function () {
+  setTimeout(function ($) {
     $(".portnxt").removeAttr("disabled");
   }, 500);
 });
-$(".portprev").click(function ($) {
+$(".portprev").click(function () {
   $(".your-class").slick("slickPrev");
   changeSlide = changeSlide - 1;
   changeSlide = (changeSlide + 7) % 7;
@@ -207,7 +207,7 @@ $(".portprev").click(function ($) {
     $(".port0").addClass("outerFirst");
   }
   $(".portprev").attr("disabled", "disabled");
-  setTimeout(function ($) {
+  setTimeout(function () {
     $(".portprev").removeAttr("disabled");
   }, 500);
 });
